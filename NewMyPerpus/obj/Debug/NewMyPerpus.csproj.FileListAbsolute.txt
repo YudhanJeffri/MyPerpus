@@ -1,0 +1,49 @@
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\bin\Debug\NewMyPerpus.exe.config
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\bin\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\bin\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Form1.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Properties.Resources.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.GenerateResource.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.CoreCompileInputs.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Dashboard.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Anggota.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Buku.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Home.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Transaksi.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\bin\Debug\DatabaseAnggota.accdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\NEW FIX KK3 PROJECT\NewMyPerpus\NewMyPerpus\obj\Debug\NewMyPerpus.csprojAssemblyReference.cache
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\bin\Debug\DatabaseAnggota.accdb
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.exe.config
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csprojAssemblyReference.cache
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Dashboard.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Form1.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Anggota.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Buku.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Home.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Transaksi.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Properties.Resources.resources
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.GenerateResource.cache
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.CoreCompileInputs.cache
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\bin\Debug\DatabaseAnggota.accdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.exe.config
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\bin\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Dashboard.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Form1.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Anggota.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Buku.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Home.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Nav.Transaksi.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.Properties.Resources.resources
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.GenerateResource.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csproj.CoreCompileInputs.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\obj\Debug\NewMyPerpus.csprojAssemblyReference.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\MyPerpus-main\NewMyPerpus\bin\Debug\BukuDatabase.accdb
